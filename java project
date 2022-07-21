@@ -1,0 +1,18 @@
+//create the program according to the following requirements.
+q.1 create base class called Shoe that stores the brand of shoe as string and size of the 
+shoe as a double. Create a constructor for the variable and also creates class 
+methods for the variables?
+//answer
+
+  // IntelliJ API Decompiler stub source generated from a class file
+  // Implementation of methods is not available
+
+package a;
+
+public class A {
+    public A() { /* compiled code */ }
+
+    public static double m(int x) { /* compiled code */ }
+
+    public static void main(java.lang.String[] args) { /* compiled code */ }
+}
